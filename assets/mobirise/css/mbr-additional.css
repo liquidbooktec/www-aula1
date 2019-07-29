@@ -1414,9 +1414,9 @@ body {
   box-shadow: none !important;
 }
 .cid-rw15CEhS25 {
-  background: #33a8ff;
-  padding-top: 0px;
-  padding-bottom: 0px;
+  background: #fafafa;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 .cid-rw15CEhS25 .image-block {
   margin: auto;
@@ -1435,9 +1435,9 @@ body {
   }
 }
 .cid-rw0Z8DMCKC {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #33a8ff;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #fafafa;
 }
 .cid-rw0Z8DMCKC h4 {
   font-weight: 500;
@@ -1456,10 +1456,13 @@ body {
 }
 .cid-rw0Z8DMCKC .card-title {
   text-align: center;
-  color: #ffffff;
+  color: #82786e;
+}
+.cid-rw0Z8DMCKC P {
+  color: #82786e;
 }
 .cid-rw160URVEQ {
-  background: #33a8ff;
+  background: #fafafa;
   padding-top: 60px;
   padding-bottom: 60px;
 }
